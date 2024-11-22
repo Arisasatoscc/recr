@@ -10,6 +10,11 @@
       "StackName": "amplify-recr-dev-f2000",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:202533533312:stack/amplify-recr-dev-f2000/85825eb0-a86d-11ef-8710-0a9b3436daff",
       "AmplifyAppId": "d13aj2drc0rr85"
+    },
+    "categories": {
+      "function": {
+        "recr": {}
+      }
     }
   }
 }
